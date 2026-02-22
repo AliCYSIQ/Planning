@@ -171,21 +171,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/first game.md",
+                "file": "Notes/Plan/Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of first game"
+              "title": "Outline of Goals"
+            }
+          },
+          {
+            "id": "c74a8c518e275563",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +205,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b22b3502225286da",
+  "active": "543f35a55ec0922e",
   "lastOpenFiles": [
-    "Notes/Plan/Cybersecurity career.md",
-    "Notes/Plan/Goals.md",
     "Notes/Plan/Game Dev career.md",
+    "Notes/Plan/Cybersecurity career.md",
     "Notes/Plan/bugHuntingPlan.md",
+    "Notes/Plan/Goals.md",
     "Notes/Plan/daily plan.md",
     "Notes/Plan/plan priority.md",
     "Notes/Plan",
