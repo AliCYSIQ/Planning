@@ -1,0 +1,1 @@
+i have survival game that could be really good game but it will take so much time (e.g. 3 years) so i will start make this game for a month and i will see about it after that month
