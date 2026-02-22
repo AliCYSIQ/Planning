@@ -7,7 +7,7 @@
 
 ## bug hunting 
 1. make it my main thing and get real money from it so i keep doing tech things 
-
+d
 
 ## Genral
 1. learn how to use ai (because i use it too much)
