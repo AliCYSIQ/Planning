@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Plan/Goals.md",
+                "file": "Notes/first game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "first game"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "right": {
     "id": "9b83733449cfa4be",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Plan/Goals.md",
+                "file": "Notes/first game.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Goals"
+              "title": "Outline of first game"
             }
           },
           {
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,21 +209,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "543f35a55ec0922e",
+  "active": "5088a485f09fcd63",
   "lastOpenFiles": [
+    "Notes/GamesIdea",
+    "Notes/learnPromte.md",
+    "Notes/ThingsNeedToLearn.md",
+    "Notes/towersGame.md",
+    "Notes/first game.md",
+    "Notes/Plan/Goals.md",
     "Notes/Plan/Game Dev career.md",
     "Notes/Plan/Cybersecurity career.md",
     "Notes/Plan/bugHuntingPlan.md",
-    "Notes/Plan/Goals.md",
     "Notes/Plan/daily plan.md",
     "Notes/Plan/plan priority.md",
     "Notes/Plan",
     "Notes/GrapTheFIght/startPlan.md",
     "Notes/Untitled.md",
     "Notes/GrapTheFIght",
-    "Notes/learnPromte.md",
-    "Notes/first game.md",
-    "Notes/towersGame.md",
     "Notes",
     "create a link.md",
     "Welcome.md",
