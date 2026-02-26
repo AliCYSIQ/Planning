@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/first game.md",
+                "file": "Notes/Plan/bugHuntingPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first game"
+              "title": "bugHuntingPlan"
             }
           }
         ],
@@ -209,18 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5088a485f09fcd63",
+  "active": "b22b3502225286da",
   "lastOpenFiles": [
+    "Notes/Plan/daily plan.md",
+    "Notes/Plan/bugHuntingPlan.md",
+    "Notes/first game.md",
     "Notes/GamesIdea",
     "Notes/learnPromte.md",
     "Notes/ThingsNeedToLearn.md",
     "Notes/towersGame.md",
-    "Notes/first game.md",
     "Notes/Plan/Goals.md",
     "Notes/Plan/Game Dev career.md",
     "Notes/Plan/Cybersecurity career.md",
-    "Notes/Plan/bugHuntingPlan.md",
-    "Notes/Plan/daily plan.md",
     "Notes/Plan/plan priority.md",
     "Notes/Plan",
     "Notes/GrapTheFIght/startPlan.md",
