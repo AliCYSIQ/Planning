@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Plan/bugHuntingPlan.md",
+                "file": "Notes/ThingsNeedToLearn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bugHuntingPlan"
+              "title": "ThingsNeedToLearn"
             }
           }
         ],
@@ -211,12 +211,12 @@
   },
   "active": "b22b3502225286da",
   "lastOpenFiles": [
-    "Notes/Plan/daily plan.md",
-    "Notes/Plan/bugHuntingPlan.md",
-    "Notes/first game.md",
-    "Notes/GamesIdea",
     "Notes/learnPromte.md",
     "Notes/ThingsNeedToLearn.md",
+    "Notes/first game.md",
+    "Notes/Plan/bugHuntingPlan.md",
+    "Notes/Plan/daily plan.md",
+    "Notes/GamesIdea",
     "Notes/towersGame.md",
     "Notes/Plan/Goals.md",
     "Notes/Plan/Game Dev career.md",
