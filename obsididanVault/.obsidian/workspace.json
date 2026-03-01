@@ -39,12 +39,14 @@
             "id": "ad8afc48beedd69a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "trainning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "trainning"
             }
           }
         ],
@@ -223,6 +225,7 @@
   },
   "active": "ad8afc48beedd69a",
   "lastOpenFiles": [
+    "trainning.md",
     "Notes/learnPromte.md",
     "Notes/first game.md",
     "Notes/Plan/plan priority.md",
