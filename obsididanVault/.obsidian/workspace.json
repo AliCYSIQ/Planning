@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trainning.md",
+                "file": "Notes/Math/firstList for learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trainning"
+              "title": "firstList for learn"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9b83733449cfa4be",
@@ -209,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,6 +228,10 @@
   "active": "ad8afc48beedd69a",
   "lastOpenFiles": [
     "trainning.md",
+    "Notes/Math/firstList for learn.md",
+    "Notes/math.md",
+    "Notes/Math",
+    "Notes/Untitled",
     "Notes/learnPromte.md",
     "Notes/first game.md",
     "Notes/Plan/plan priority.md",
@@ -240,7 +246,6 @@
     "Notes/towersGame.md",
     "Notes/Plan",
     "Notes/GrapTheFIght/startPlan.md",
-    "Notes/Untitled.md",
     "Notes/GrapTheFIght",
     "Notes",
     "create a link.md",
