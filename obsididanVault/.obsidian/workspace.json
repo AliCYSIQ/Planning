@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/firstList for learn.md",
+                "file": "Notes/Math/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "firstList for learn"
+              "title": "Untitled"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9b83733449cfa4be",
@@ -225,10 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad8afc48beedd69a",
+  "active": "5088a485f09fcd63",
   "lastOpenFiles": [
-    "trainning.md",
+    "Notes/Math/Projects-notes",
     "Notes/Math/firstList for learn.md",
+    "Notes/Math/Untitled.md",
+    "Notes/Math/Math-notes",
+    "Notes/Math/projects.md",
+    "trainning.md",
     "Notes/math.md",
     "Notes/Math",
     "Notes/Untitled",
