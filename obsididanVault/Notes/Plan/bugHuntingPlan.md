@@ -1,7 +1,7 @@
 ## Goal
 this is my main career , i need it to be my focus and be really good in it , get money
 
-**NOTE**: 3-2-1 is hunt days then study days , then hunt days , and they always will be like this 
+**NOTE**: 3-2-1 is hunt days then study days , then hunt days , and they always will be like this(like hunt-study-hunt)
 ## daily plan
 
 **on collage days**
